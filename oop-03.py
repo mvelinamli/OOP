@@ -23,6 +23,7 @@ class Person:
 p1 = Person(name='veli', year=2004)
 p2 = Person(name='nuri', year=2009)
 
+
 p1.intro()
 p2.calculate_age()
 
